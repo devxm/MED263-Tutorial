@@ -11,6 +11,8 @@ The following files need to be downloaded from the link:
 2. Paste the two files we downloaded in "Dataset". 
 3. IMPORTANT- Rename the spatial imaging data folder to "spatial". 
 
+![alt text]([http://url/to/img.png](https://ibb.co/F0rsFtd))
+
 ## Software/Libraries 
 ### The following libraries need to be installed using the following commands on the Python Notebook:
 1. ScanPy: !pip install scanpy==1.9.3
