@@ -19,3 +19,4 @@ The following files need to be downloaded from the link:
 1. ScanPy: !pip install scanpy==1.9.3
 2. Leiden: !pip install leidenalg
 3. Decoupler: !pip install decoupler
+4. Omnipath: !pip install omnipath
