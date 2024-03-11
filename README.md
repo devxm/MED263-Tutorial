@@ -11,7 +11,7 @@ The following files need to be downloaded from the link:
 2. Paste the two files we downloaded in "Dataset". 
 3. IMPORTANT- Rename the spatial imaging data folder to "spatial". 
 
-![alt text][https://ibb.co/F0rsFtd](https://i.ibb.co/xfkmNQr/folder-Structure-drawio.png)
+![alt text](https://i.ibb.co/xfkmNQr/folder-Structure-drawio.png)
 
 ## Software/Libraries 
 ### The following libraries need to be installed using the following commands on the Python Notebook:
