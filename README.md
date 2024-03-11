@@ -1,5 +1,8 @@
 # MED263-Tutorial
 
+## Google Colab
+### Please ensure that you can use Google Colab. If there are issues opening the notebook on your UCSD account, please try using your personal gmail account. The python script can be accessed using the following link: https://colab.research.google.com/drive/1TjY3m1oxA3KqIoFQn0ArR5alS79DXgAQ?usp=sharing.
+
 ## Data 
 ### The data can be downloaded through the following link: https://www.10xgenomics.com/datasets/human-breast-cancer-ductal-carcinoma-in-situ-invasive-carcinoma-ffpe-1-standard-1-3-0. Note that you will have to make a 10x Genomics account. 
 The following files need to be downloaded from the link: 
