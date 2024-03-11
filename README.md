@@ -9,7 +9,8 @@ The following files need to be downloaded from the link:
 ### Steps to organize data for spatial analysis:
 1. Unzip the spatial imaging data, and create a folder in the Google Drive titled "Dataset"
 2. Paste the two files we downloaded in "Dataset". 
-3. IMPORTANT- Rename the spatial imaging data folder to "spatial". 
+3. Rename the spatial imaging data folder to "spatial".
+4. Rename the h5 matrix file to "filtered_feature_bc_matrix.h5".
 
 ![alt text](https://i.ibb.co/KLbV3r8/fold.png)
 
