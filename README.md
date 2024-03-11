@@ -23,3 +23,5 @@ The following files need to be downloaded from the link:
 2. Leiden: !pip install leidenalg
 3. Decoupler: !pip install decoupler
 4. Omnipath: !pip install omnipath
+
+### Please type the keyword used for library installation in a separate cell to ensure correct installation. For instance, if you import scanpy as sc, type “sc” in a cell to confirm installation.
